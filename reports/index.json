@@ -1,0 +1,32 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Deep Space",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260301-220004-63nu",
+      "title": "Ojos De La Tierra",
+      "commanders": [
+        "Ojos De La Tierra"
+      ],
+      "dateStart": "2026-03-02T06:00:04.000Z",
+      "dateEnd": "2026-03-02T06:30:08.000Z",
+      "dateLabel": "3/1/2026, 10:00:04 PM - 3/1/2026, 10:30:08 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260301-220004-63nu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 32
+      }
+    }
+  ]
+}
