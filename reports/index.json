@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260225-172004-wh5w",
+      "title": "Papa Akram, R A D E E",
+      "commanders": [
+        "Papa Akram",
+        "R A D E E"
+      ],
+      "dateStart": "2026-02-26T01:20:04.000Z",
+      "dateEnd": "2026-02-26T03:27:23.000Z",
+      "dateLabel": "2/25/2026, 5:20:04 PM - 2/25/2026, 7:27:23 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260225-172004-wh5w",
+      "summary": {
+        "borderlandsPct": 0.5666666666666667,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Detailed Isle of Reflection",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260207-170114-498l",
       "title": "Emo Radee",
       "commanders": [
