@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260228-171047-724u",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-03-01T01:10:47.000Z",
+      "dateEnd": "2026-03-01T03:36:40.000Z",
+      "dateLabel": "2/28/2026, 5:10:47 PM - 2/28/2026, 7:36:40 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260228-171047-724u",
+      "summary": {
+        "borderlandsPct": 0.725,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260225-172004-wh5w",
       "title": "Papa Akram, R A D E E",
       "commanders": [
