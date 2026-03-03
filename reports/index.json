@@ -1,10 +1,38 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Deep Space",
+    "paletteId": "Shadow",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260204-172013-q4y9",
+      "title": "Emo Radee",
+      "commanders": [
+        "Emo Radee"
+      ],
+      "dateStart": "2026-02-05T01:20:13.000Z",
+      "dateEnd": "2026-02-05T03:49:40.000Z",
+      "dateLabel": "2/4/2026, 5:20:13 PM - 2/4/2026, 7:49:40 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260204-172013-q4y9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 35
+      }
+    },
     {
       "id": "20260301-225146-p5ob",
       "title": "Unknown Commander",
