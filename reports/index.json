@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260308-171531-gyx3",
+      "title": "Emo Radee",
+      "commanders": [
+        "Emo Radee"
+      ],
+      "dateStart": "2026-03-09T00:15:31.000Z",
+      "dateEnd": "2026-03-09T02:21:24.000Z",
+      "dateLabel": "3/8/2026, 5:15:31 PM - 3/8/2026, 7:21:24 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260308-171531-gyx3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260307-171601-0bkj",
       "title": "Papa Akram",
       "commanders": [
