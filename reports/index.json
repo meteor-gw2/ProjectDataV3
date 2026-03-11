@@ -1,10 +1,44 @@
 {
   "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Shadow",
+    "ui": "dark-glass",
+    "paletteId": "Aurora",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260310-172755-yjn3",
+      "title": "Devastator Pain, R A D E E",
+      "commanders": [
+        "Devastator Pain",
+        "R A D E E"
+      ],
+      "dateStart": "2026-03-11T00:27:55.000Z",
+      "dateEnd": "2026-03-11T02:25:14.000Z",
+      "dateLabel": "3/10/2026, 5:27:55 PM - 3/10/2026, 7:25:14 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260310-172755-yjn3",
+      "summary": {
+        "borderlandsPct": 0.14285714285714285,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20260308-171531-gyx3",
       "title": "Emo Radee",
