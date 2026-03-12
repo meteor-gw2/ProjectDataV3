@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260311-172212-350n",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-03-12T00:22:12.000Z",
+      "dateEnd": "2026-03-12T02:27:49.000Z",
+      "dateLabel": "3/11/2026, 5:22:12 PM - 3/11/2026, 7:27:49 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260311-172212-350n",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260310-172755-yjn3",
       "title": "Devastator Pain, R A D E E",
       "commanders": [
