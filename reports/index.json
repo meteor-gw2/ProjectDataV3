@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260313-190718-ojdr",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "dateStart": "2026-03-14T02:07:18.000Z",
+      "dateEnd": "2026-03-14T04:08:14.000Z",
+      "dateLabel": "3/13/2026, 7:07:18 PM - 3/13/2026, 9:08:14 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260313-190718-ojdr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260311-172212-i8ri",
       "title": "R A D E E",
       "commanders": [
