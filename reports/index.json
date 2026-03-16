@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260315-171844-sy17",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-03-16T00:18:44.000Z",
+      "dateEnd": "2026-03-16T00:37:58.000Z",
+      "dateLabel": "3/15/2026, 5:18:44 PM - 3/15/2026, 5:37:58 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260315-171844-sy17",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260314-171609-fbfo",
       "title": "Salazierthaous",
       "commanders": [
