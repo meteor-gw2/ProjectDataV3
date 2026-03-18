@@ -6,6 +6,40 @@
   },
   "entries": [
     {
+      "id": "20260317-173116-chgx",
+      "title": "Casandra Hunmer, Lumpia Humner",
+      "commanders": [
+        "Casandra Hunmer",
+        "Lumpia Humner"
+      ],
+      "dateStart": "2026-03-18T00:31:16.000Z",
+      "dateEnd": "2026-03-18T03:21:11.000Z",
+      "dateLabel": "3/17/2026, 5:31:16 PM - 3/17/2026, 8:21:11 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260317-173116-chgx",
+      "summary": {
+        "borderlandsPct": 0.5185185185185185,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260315-171844-sy17",
       "title": "R A D E E",
       "commanders": [
