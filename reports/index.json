@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260319-172350-emhp",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-03-20T00:23:50.000Z",
+      "dateEnd": "2026-03-20T02:12:22.000Z",
+      "dateLabel": "3/19/2026, 5:23:50 PM - 3/19/2026, 7:12:22 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260319-172350-emhp",
+      "summary": {
+        "borderlandsPct": 0.3939393939393939,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260318-171222-hcix",
       "title": "R A D E E",
       "commanders": [
