@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260323-184951-niu6",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "dateStart": "2026-03-24T01:49:51.000Z",
+      "dateEnd": "2026-03-24T03:54:18.000Z",
+      "dateLabel": "3/23/2026, 6:49:51 PM - 3/23/2026, 8:54:18 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260323-184951-niu6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260322-171650-6fev",
       "title": "R A D E E, Salazierthaous",
       "commanders": [
