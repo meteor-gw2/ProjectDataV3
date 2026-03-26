@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260325-165916-no4m",
+      "title": "Papa Akram",
+      "commanders": [
+        "Papa Akram"
+      ],
+      "dateStart": "2026-03-25T23:59:16.000Z",
+      "dateEnd": "2026-03-26T02:13:07.000Z",
+      "dateLabel": "3/25/2026, 4:59:16 PM - 3/25/2026, 7:13:07 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260325-165916-no4m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260324-170934-e8zt",
       "title": "R A D E E",
       "commanders": [
