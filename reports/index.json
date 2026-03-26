@@ -6,35 +6,6 @@
   },
   "entries": [
     {
-      "id": "20260318-171535-yvx7",
-      "title": "Papa Akram, R A D E E",
-      "commanders": [
-        "Papa Akram",
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-19T00:15:35.000Z",
-      "dateEnd": "2026-03-26T02:13:07.000Z",
-      "dateLabel": "3/18/2026, 5:15:35 PM - 3/25/2026, 7:13:07 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260318-171535-yvx7",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 21,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 49
-      }
-    },
-    {
       "id": "20260324-170934-e8zt",
       "title": "R A D E E",
       "commanders": [
