@@ -6,6 +6,46 @@
   },
   "entries": [
     {
+      "id": "20260326-170354-tpkn",
+      "title": "Papa Akram, Salazierthaous, Valencious Et Moria",
+      "commanders": [
+        "Papa Akram",
+        "Salazierthaous",
+        "Valencious Et Moria"
+      ],
+      "dateStart": "2026-03-27T00:03:54.000Z",
+      "dateEnd": "2026-03-27T02:09:45.000Z",
+      "dateLabel": "3/26/2026, 5:03:54 PM - 3/26/2026, 7:09:45 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260326-170354-tpkn",
+      "summary": {
+        "borderlandsPct": 0.8823529411764706,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260325-165916-no4m",
       "title": "Papa Akram",
       "commanders": [
