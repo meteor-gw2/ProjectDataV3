@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "dark-glass",
-    "paletteId": "Aurora",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260327-190757-veb4",
+      "title": "Vikshoots",
+      "commanders": [
+        "Vikshoots"
+      ],
+      "dateStart": "2026-03-28T02:07:57.000Z",
+      "dateEnd": "2026-03-28T03:12:59.000Z",
+      "dateLabel": "3/27/2026, 7:07:57 PM - 3/27/2026, 8:12:59 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260327-190757-veb4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 50
+      }
+    },
     {
       "id": "20260326-170354-tpkn",
       "title": "Papa Akram, Salazierthaous, Valencious Et Moria",
