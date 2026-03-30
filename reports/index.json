@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260329-192315-kwdh",
+      "title": "Pretty Humner",
+      "commanders": [
+        "Pretty Humner"
+      ],
+      "dateStart": "2026-03-30T02:23:15.000Z",
+      "dateEnd": "2026-03-30T03:56:37.000Z",
+      "dateLabel": "3/29/2026, 7:23:15 PM - 3/29/2026, 8:56:37 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260329-192315-kwdh",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260327-190757-veb4",
       "title": "Vikshoots",
       "commanders": [
