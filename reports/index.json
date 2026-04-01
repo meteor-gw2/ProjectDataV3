@@ -1,840 +1,808 @@
-{
-  "colorPalette": "emerald-mint",
-  "glassSurfaces": true,
-  "entries": [
-    {
-      "id": "20260331-170853-lp9a",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
+[
+  {
+    "id": "20260330-181438-rd6o",
+    "title": "Lumpia Humner",
+    "commanders": [
+      "Lumpia Humner"
+    ],
+    "dateStart": "2026-03-31T01:14:38.000Z",
+    "dateEnd": "2026-03-31T03:07:53.000Z",
+    "dateLabel": "3/30/2026, 6:14:38 PM - 3/30/2026, 8:07:53 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260330-181438-rd6o",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 14,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        }
       ],
-      "dateStart": "2026-04-01T00:08:53.000Z",
-      "dateEnd": "2026-04-01T02:27:39.000Z",
-      "dateLabel": "3/31/2026, 5:08:53 PM - 3/31/2026, 7:27:39 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260331-170853-lp9a",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 17,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 12,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260330-181438-rd6o",
-      "title": "Lumpia Humner",
-      "commanders": [
-        "Lumpia Humner"
-      ],
-      "dateStart": "2026-03-31T01:14:38.000Z",
-      "dateEnd": "2026-03-31T03:07:53.000Z",
-      "dateLabel": "3/30/2026, 6:14:38 PM - 3/30/2026, 8:07:53 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260330-181438-rd6o",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 14,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 51
-      }
-    },
-    {
-      "id": "20260329-192315-kwdh",
-      "title": "Pretty Humner",
-      "commanders": [
-        "Pretty Humner"
-      ],
-      "dateStart": "2026-03-30T02:23:15.000Z",
-      "dateEnd": "2026-03-30T03:56:37.000Z",
-      "dateLabel": "3/29/2026, 7:23:15 PM - 3/29/2026, 8:56:37 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260329-192315-kwdh",
-      "summary": {
-        "borderlandsPct": 0.16666666666666666,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 15,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 33,
-        "avgEnemySize": 44
-      }
-    },
-    {
-      "id": "20260327-190757-veb4",
-      "title": "Vikshoots",
-      "commanders": [
-        "Vikshoots"
-      ],
-      "dateStart": "2026-03-28T02:07:57.000Z",
-      "dateEnd": "2026-03-28T03:12:59.000Z",
-      "dateLabel": "3/27/2026, 7:07:57 PM - 3/27/2026, 8:12:59 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260327-190757-veb4",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 17,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 11,
-        "avgEnemySize": 50
-      }
-    },
-    {
-      "id": "20260326-170354-tpkn",
-      "title": "Papa Akram, Salazierthaous, Valencious Et Moria",
-      "commanders": [
-        "Papa Akram",
-        "Salazierthaous",
-        "Valencious Et Moria"
-      ],
-      "dateStart": "2026-03-27T00:03:54.000Z",
-      "dateEnd": "2026-03-27T02:09:45.000Z",
-      "dateLabel": "3/26/2026, 5:03:54 PM - 3/26/2026, 7:09:45 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260326-170354-tpkn",
-      "summary": {
-        "borderlandsPct": 0.8823529411764706,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 9,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 2,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 15,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260325-165916-no4m",
-      "title": "Papa Akram",
-      "commanders": [
-        "Papa Akram"
-      ],
-      "dateStart": "2026-03-25T23:59:16.000Z",
-      "dateEnd": "2026-03-26T02:13:07.000Z",
-      "dateLabel": "3/25/2026, 4:59:16 PM - 3/25/2026, 7:13:07 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260325-165916-no4m",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 26,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260324-170934-e8zt",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-25T00:09:34.000Z",
-      "dateEnd": "2026-03-25T02:31:02.000Z",
-      "dateLabel": "3/24/2026, 5:09:34 PM - 3/24/2026, 7:31:02 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260324-170934-e8zt",
-      "summary": {
-        "borderlandsPct": 0.40625,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 13,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 29
-      }
-    },
-    {
-      "id": "20260323-184951-niu6",
-      "title": "Casandra Hunmer",
-      "commanders": [
-        "Casandra Hunmer"
-      ],
-      "dateStart": "2026-03-24T01:49:51.000Z",
-      "dateEnd": "2026-03-24T03:54:18.000Z",
-      "dateLabel": "3/23/2026, 6:49:51 PM - 3/23/2026, 8:54:18 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260323-184951-niu6",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260322-171650-6fev",
-      "title": "R A D E E, Salazierthaous",
-      "commanders": [
-        "R A D E E",
-        "Salazierthaous"
-      ],
-      "dateStart": "2026-03-23T00:16:50.000Z",
-      "dateEnd": "2026-03-23T02:48:19.000Z",
-      "dateLabel": "3/22/2026, 5:16:50 PM - 3/22/2026, 7:48:19 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260322-171650-6fev",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 22,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260321-171128-apz7",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-22T00:11:28.000Z",
-      "dateEnd": "2026-03-22T02:37:52.000Z",
-      "dateLabel": "3/21/2026, 5:11:28 PM - 3/21/2026, 7:37:52 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260321-171128-apz7",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260319-172350-emhp",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-20T00:23:50.000Z",
-      "dateEnd": "2026-03-20T02:12:22.000Z",
-      "dateLabel": "3/19/2026, 5:23:50 PM - 3/19/2026, 7:12:22 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260319-172350-emhp",
-      "summary": {
-        "borderlandsPct": 0.3939393939393939,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 20,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 13,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 51
-      }
-    },
-    {
-      "id": "20260318-171222-hcix",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-19T00:12:22.000Z",
-      "dateEnd": "2026-03-19T02:25:43.000Z",
-      "dateLabel": "3/18/2026, 5:12:22 PM - 3/18/2026, 7:25:43 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260318-171222-hcix",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 27,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 50
-      }
-    },
-    {
-      "id": "20260317-173116-chgx",
-      "title": "Casandra Hunmer, Lumpia Humner",
-      "commanders": [
-        "Casandra Hunmer",
-        "Lumpia Humner"
-      ],
-      "dateStart": "2026-03-18T00:31:16.000Z",
-      "dateEnd": "2026-03-18T03:21:11.000Z",
-      "dateLabel": "3/17/2026, 5:31:16 PM - 3/17/2026, 8:21:11 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260317-173116-chgx",
-      "summary": {
-        "borderlandsPct": 0.5185185185185185,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 11,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 33,
-        "avgEnemySize": 57
-      }
-    },
-    {
-      "id": "20260315-171844-sy17",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-16T00:18:44.000Z",
-      "dateEnd": "2026-03-16T00:37:58.000Z",
-      "dateLabel": "3/15/2026, 5:18:44 PM - 3/15/2026, 5:37:58 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260315-171844-sy17",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260314-171609-fbfo",
-      "title": "Salazierthaous",
-      "commanders": [
-        "Salazierthaous"
-      ],
-      "dateStart": "2026-03-15T00:16:09.000Z",
-      "dateEnd": "2026-03-15T02:29:13.000Z",
-      "dateLabel": "3/14/2026, 5:16:09 PM - 3/14/2026, 7:29:13 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260314-171609-fbfo",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 19,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 34
-      }
-    },
-    {
-      "id": "20260313-190718-ojdr",
-      "title": "Virtuous Claps",
-      "commanders": [
-        "Virtuous Claps"
-      ],
-      "dateStart": "2026-03-14T02:07:18.000Z",
-      "dateEnd": "2026-03-14T04:08:14.000Z",
-      "dateLabel": "3/13/2026, 7:07:18 PM - 3/13/2026, 9:08:14 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260313-190718-ojdr",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 18,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 38,
-        "avgEnemySize": 43
-      }
-    },
-    {
-      "id": "20260311-172212-i8ri",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-12T00:22:12.000Z",
-      "dateEnd": "2026-03-12T02:27:49.000Z",
-      "dateLabel": "3/11/2026, 5:22:12 PM - 3/11/2026, 7:27:49 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260311-172212-i8ri",
-      "summary": {
-        "borderlandsPct": 0.1111111111111111,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 42,
-        "avgEnemySize": 51
-      }
-    },
-    {
-      "id": "20260311-172212-350n",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-12T00:22:12.000Z",
-      "dateEnd": "2026-03-12T02:27:49.000Z",
-      "dateLabel": "3/11/2026, 5:22:12 PM - 3/11/2026, 7:27:49 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260311-172212-350n",
-      "summary": {
-        "borderlandsPct": 0.1111111111111111,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 42,
-        "avgEnemySize": 51
-      }
-    },
-    {
-      "id": "20260310-172755-yjn3",
-      "title": "Devastator Pain, R A D E E",
-      "commanders": [
-        "Devastator Pain",
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-11T00:27:55.000Z",
-      "dateEnd": "2026-03-11T02:25:14.000Z",
-      "dateLabel": "3/10/2026, 5:27:55 PM - 3/10/2026, 7:25:14 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260310-172755-yjn3",
-      "summary": {
-        "borderlandsPct": 0.14285714285714285,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 18,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 37
-      }
-    },
-    {
-      "id": "20260308-171531-gyx3",
-      "title": "Emo Radee",
-      "commanders": [
-        "Emo Radee"
-      ],
-      "dateStart": "2026-03-09T00:15:31.000Z",
-      "dateEnd": "2026-03-09T02:21:24.000Z",
-      "dateLabel": "3/8/2026, 5:15:31 PM - 3/8/2026, 7:21:24 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260308-171531-gyx3",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 9,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260307-171601-0bkj",
-      "title": "Papa Akram",
-      "commanders": [
-        "Papa Akram"
-      ],
-      "dateStart": "2026-03-08T01:16:01.000Z",
-      "dateEnd": "2026-03-08T03:37:10.000Z",
-      "dateLabel": "3/7/2026, 5:16:01 PM - 3/7/2026, 7:37:10 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260307-171601-0bkj",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 25,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260304-171248-oi83",
-      "title": "Emo Radee",
-      "commanders": [
-        "Emo Radee"
-      ],
-      "dateStart": "2026-03-05T01:12:48.000Z",
-      "dateEnd": "2026-03-05T03:02:32.000Z",
-      "dateLabel": "3/4/2026, 5:12:48 PM - 3/4/2026, 7:02:32 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260304-171248-oi83",
-      "summary": {
-        "borderlandsPct": 0.8260869565217391,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 19,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Obsidian Sanctum",
-            "value": 4,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 41,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260303-171104-je7t",
-      "title": "Emo Radee, Papa Akram",
-      "commanders": [
-        "Emo Radee",
-        "Papa Akram"
-      ],
-      "dateStart": "2026-03-04T01:11:04.000Z",
-      "dateEnd": "2026-03-04T03:30:44.000Z",
-      "dateLabel": "3/3/2026, 5:11:04 PM - 3/3/2026, 7:30:44 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260303-171104-je7t",
-      "summary": {
-        "borderlandsPct": 0.3181818181818182,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 15,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 35,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260228-171047-724u",
-      "title": "R A D E E",
-      "commanders": [
-        "R A D E E"
-      ],
-      "dateStart": "2026-03-01T01:10:47.000Z",
-      "dateEnd": "2026-03-01T03:36:40.000Z",
-      "dateLabel": "2/28/2026, 5:10:47 PM - 2/28/2026, 7:36:40 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260228-171047-724u",
-      "summary": {
-        "borderlandsPct": 0.725,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 29,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Obsidian Sanctum",
-            "value": 11,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 44,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260225-172004-wh5w",
-      "title": "Papa Akram, R A D E E",
-      "commanders": [
-        "Papa Akram",
-        "R A D E E"
-      ],
-      "dateStart": "2026-02-26T01:20:04.000Z",
-      "dateEnd": "2026-02-26T03:27:23.000Z",
-      "dateLabel": "2/25/2026, 5:20:04 PM - 2/25/2026, 7:27:23 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260225-172004-wh5w",
-      "summary": {
-        "borderlandsPct": 0.5666666666666667,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 17,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Detailed Isle of Reflection",
-            "value": 13,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260207-170114-498l",
-      "title": "Emo Radee",
-      "commanders": [
-        "Emo Radee"
-      ],
-      "dateStart": "2026-02-08T01:01:14.000Z",
-      "dateEnd": "2026-02-08T03:58:22.000Z",
-      "dateLabel": "2/7/2026, 5:01:14 PM - 2/7/2026, 7:58:22 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260207-170114-498l",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 44,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 35,
-        "avgEnemySize": 44
-      }
-    },
-    {
-      "id": "20260203-190701-5tp0",
-      "title": "Emo Radee",
-      "commanders": [
-        "Emo Radee"
-      ],
-      "dateStart": "2026-02-04T03:07:01.000Z",
-      "dateEnd": "2026-02-04T03:26:55.000Z",
-      "dateLabel": "2/3/2026, 7:07:01 PM - 2/3/2026, 7:26:55 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260203-190701-5tp0",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 33,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260204-172013-q4y9",
-      "title": "Emo Radee",
-      "commanders": [
-        "Emo Radee"
-      ],
-      "dateStart": "2026-02-05T01:20:13.000Z",
-      "dateEnd": "2026-02-05T03:49:40.000Z",
-      "dateLabel": "2/4/2026, 5:20:13 PM - 2/4/2026, 7:49:40 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260204-172013-q4y9",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 18,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 17,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260301-225146-p5ob",
-      "title": "Unknown Commander",
-      "commanders": [],
-      "dateStart": "2026-03-02T06:51:46.410Z",
-      "dateEnd": "2026-03-02T06:51:46.410Z",
-      "dateLabel": "3/1/2026, 10:51:46 PM - 3/1/2026, 10:51:46 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260301-225146-p5ob",
-      "summary": {
-        "borderlandsPct": null,
-        "mapSlices": [],
-        "avgSquadSize": 0,
-        "avgEnemySize": 0
-      }
-    },
-    {
-      "id": "20260301-220004-63nu",
-      "title": "Ojos De La Tierra",
-      "commanders": [
-        "Ojos De La Tierra"
-      ],
-      "dateStart": "2026-03-02T06:00:04.000Z",
-      "dateEnd": "2026-03-02T06:30:08.000Z",
-      "dateLabel": "3/1/2026, 10:00:04 PM - 3/1/2026, 10:30:08 PM",
-      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260301-220004-63nu",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 32
-      }
+      "avgSquadSize": 31,
+      "avgEnemySize": 51
     }
-  ]
-}
+  },
+  {
+    "id": "20260329-192315-kwdh",
+    "title": "Pretty Humner",
+    "commanders": [
+      "Pretty Humner"
+    ],
+    "dateStart": "2026-03-30T02:23:15.000Z",
+    "dateEnd": "2026-03-30T03:56:37.000Z",
+    "dateLabel": "3/29/2026, 7:23:15 PM - 3/29/2026, 8:56:37 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260329-192315-kwdh",
+    "summary": {
+      "borderlandsPct": 0.16666666666666666,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 44
+    }
+  },
+  {
+    "id": "20260327-190757-veb4",
+    "title": "Vikshoots",
+    "commanders": [
+      "Vikshoots"
+    ],
+    "dateStart": "2026-03-28T02:07:57.000Z",
+    "dateEnd": "2026-03-28T03:12:59.000Z",
+    "dateLabel": "3/27/2026, 7:07:57 PM - 3/27/2026, 8:12:59 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260327-190757-veb4",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 11,
+      "avgEnemySize": 50
+    }
+  },
+  {
+    "id": "20260326-170354-tpkn",
+    "title": "Papa Akram, Salazierthaous, Valencious Et Moria",
+    "commanders": [
+      "Papa Akram",
+      "Salazierthaous",
+      "Valencious Et Moria"
+    ],
+    "dateStart": "2026-03-27T00:03:54.000Z",
+    "dateEnd": "2026-03-27T02:09:45.000Z",
+    "dateLabel": "3/26/2026, 5:03:54 PM - 3/26/2026, 7:09:45 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260326-170354-tpkn",
+    "summary": {
+      "borderlandsPct": 0.8823529411764706,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 9,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 2,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 15,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260325-165916-no4m",
+    "title": "Papa Akram",
+    "commanders": [
+      "Papa Akram"
+    ],
+    "dateStart": "2026-03-25T23:59:16.000Z",
+    "dateEnd": "2026-03-26T02:13:07.000Z",
+    "dateLabel": "3/25/2026, 4:59:16 PM - 3/25/2026, 7:13:07 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260325-165916-no4m",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 26,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260324-170934-e8zt",
+    "title": "R A D E E",
+    "commanders": [
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-25T00:09:34.000Z",
+    "dateEnd": "2026-03-25T02:31:02.000Z",
+    "dateLabel": "3/24/2026, 5:09:34 PM - 3/24/2026, 7:31:02 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260324-170934-e8zt",
+    "summary": {
+      "borderlandsPct": 0.40625,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 13,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 29
+    }
+  },
+  {
+    "id": "20260323-184951-niu6",
+    "title": "Casandra Hunmer",
+    "commanders": [
+      "Casandra Hunmer"
+    ],
+    "dateStart": "2026-03-24T01:49:51.000Z",
+    "dateEnd": "2026-03-24T03:54:18.000Z",
+    "dateLabel": "3/23/2026, 6:49:51 PM - 3/23/2026, 8:54:18 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260323-184951-niu6",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260322-171650-6fev",
+    "title": "R A D E E, Salazierthaous",
+    "commanders": [
+      "R A D E E",
+      "Salazierthaous"
+    ],
+    "dateStart": "2026-03-23T00:16:50.000Z",
+    "dateEnd": "2026-03-23T02:48:19.000Z",
+    "dateLabel": "3/22/2026, 5:16:50 PM - 3/22/2026, 7:48:19 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260322-171650-6fev",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 22,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260321-171128-apz7",
+    "title": "R A D E E",
+    "commanders": [
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-22T00:11:28.000Z",
+    "dateEnd": "2026-03-22T02:37:52.000Z",
+    "dateLabel": "3/21/2026, 5:11:28 PM - 3/21/2026, 7:37:52 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260321-171128-apz7",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260319-172350-emhp",
+    "title": "R A D E E",
+    "commanders": [
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-20T00:23:50.000Z",
+    "dateEnd": "2026-03-20T02:12:22.000Z",
+    "dateLabel": "3/19/2026, 5:23:50 PM - 3/19/2026, 7:12:22 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260319-172350-emhp",
+    "summary": {
+      "borderlandsPct": 0.3939393939393939,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 20,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 51
+    }
+  },
+  {
+    "id": "20260318-171222-hcix",
+    "title": "R A D E E",
+    "commanders": [
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-19T00:12:22.000Z",
+    "dateEnd": "2026-03-19T02:25:43.000Z",
+    "dateLabel": "3/18/2026, 5:12:22 PM - 3/18/2026, 7:25:43 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260318-171222-hcix",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 27,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 50
+    }
+  },
+  {
+    "id": "20260317-173116-chgx",
+    "title": "Casandra Hunmer, Lumpia Humner",
+    "commanders": [
+      "Casandra Hunmer",
+      "Lumpia Humner"
+    ],
+    "dateStart": "2026-03-18T00:31:16.000Z",
+    "dateEnd": "2026-03-18T03:21:11.000Z",
+    "dateLabel": "3/17/2026, 5:31:16 PM - 3/17/2026, 8:21:11 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260317-173116-chgx",
+    "summary": {
+      "borderlandsPct": 0.5185185185185185,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 11,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 57
+    }
+  },
+  {
+    "id": "20260315-171844-sy17",
+    "title": "R A D E E",
+    "commanders": [
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-16T00:18:44.000Z",
+    "dateEnd": "2026-03-16T00:37:58.000Z",
+    "dateLabel": "3/15/2026, 5:18:44 PM - 3/15/2026, 5:37:58 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260315-171844-sy17",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260314-171609-fbfo",
+    "title": "Salazierthaous",
+    "commanders": [
+      "Salazierthaous"
+    ],
+    "dateStart": "2026-03-15T00:16:09.000Z",
+    "dateEnd": "2026-03-15T02:29:13.000Z",
+    "dateLabel": "3/14/2026, 5:16:09 PM - 3/14/2026, 7:29:13 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260314-171609-fbfo",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 19,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 34
+    }
+  },
+  {
+    "id": "20260313-190718-ojdr",
+    "title": "Virtuous Claps",
+    "commanders": [
+      "Virtuous Claps"
+    ],
+    "dateStart": "2026-03-14T02:07:18.000Z",
+    "dateEnd": "2026-03-14T04:08:14.000Z",
+    "dateLabel": "3/13/2026, 7:07:18 PM - 3/13/2026, 9:08:14 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260313-190718-ojdr",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 18,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 38,
+      "avgEnemySize": 43
+    }
+  },
+  {
+    "id": "20260311-172212-i8ri",
+    "title": "R A D E E",
+    "commanders": [
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-12T00:22:12.000Z",
+    "dateEnd": "2026-03-12T02:27:49.000Z",
+    "dateLabel": "3/11/2026, 5:22:12 PM - 3/11/2026, 7:27:49 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260311-172212-i8ri",
+    "summary": {
+      "borderlandsPct": 0.1111111111111111,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 42,
+      "avgEnemySize": 51
+    }
+  },
+  {
+    "id": "20260311-172212-350n",
+    "title": "R A D E E",
+    "commanders": [
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-12T00:22:12.000Z",
+    "dateEnd": "2026-03-12T02:27:49.000Z",
+    "dateLabel": "3/11/2026, 5:22:12 PM - 3/11/2026, 7:27:49 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260311-172212-350n",
+    "summary": {
+      "borderlandsPct": 0.1111111111111111,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 42,
+      "avgEnemySize": 51
+    }
+  },
+  {
+    "id": "20260310-172755-yjn3",
+    "title": "Devastator Pain, R A D E E",
+    "commanders": [
+      "Devastator Pain",
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-11T00:27:55.000Z",
+    "dateEnd": "2026-03-11T02:25:14.000Z",
+    "dateLabel": "3/10/2026, 5:27:55 PM - 3/10/2026, 7:25:14 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260310-172755-yjn3",
+    "summary": {
+      "borderlandsPct": 0.14285714285714285,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 18,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 37
+    }
+  },
+  {
+    "id": "20260308-171531-gyx3",
+    "title": "Emo Radee",
+    "commanders": [
+      "Emo Radee"
+    ],
+    "dateStart": "2026-03-09T00:15:31.000Z",
+    "dateEnd": "2026-03-09T02:21:24.000Z",
+    "dateLabel": "3/8/2026, 5:15:31 PM - 3/8/2026, 7:21:24 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260308-171531-gyx3",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 9,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 42
+    }
+  },
+  {
+    "id": "20260307-171601-0bkj",
+    "title": "Papa Akram",
+    "commanders": [
+      "Papa Akram"
+    ],
+    "dateStart": "2026-03-08T01:16:01.000Z",
+    "dateEnd": "2026-03-08T03:37:10.000Z",
+    "dateLabel": "3/7/2026, 5:16:01 PM - 3/7/2026, 7:37:10 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260307-171601-0bkj",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 25,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 42
+    }
+  },
+  {
+    "id": "20260304-171248-oi83",
+    "title": "Emo Radee",
+    "commanders": [
+      "Emo Radee"
+    ],
+    "dateStart": "2026-03-05T01:12:48.000Z",
+    "dateEnd": "2026-03-05T03:02:32.000Z",
+    "dateLabel": "3/4/2026, 5:12:48 PM - 3/4/2026, 7:02:32 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260304-171248-oi83",
+    "summary": {
+      "borderlandsPct": 0.8260869565217391,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 19,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Obsidian Sanctum",
+          "value": 4,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260303-171104-je7t",
+    "title": "Emo Radee, Papa Akram",
+    "commanders": [
+      "Emo Radee",
+      "Papa Akram"
+    ],
+    "dateStart": "2026-03-04T01:11:04.000Z",
+    "dateEnd": "2026-03-04T03:30:44.000Z",
+    "dateLabel": "3/3/2026, 5:11:04 PM - 3/3/2026, 7:30:44 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260303-171104-je7t",
+    "summary": {
+      "borderlandsPct": 0.3181818181818182,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 35,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260228-171047-724u",
+    "title": "R A D E E",
+    "commanders": [
+      "R A D E E"
+    ],
+    "dateStart": "2026-03-01T01:10:47.000Z",
+    "dateEnd": "2026-03-01T03:36:40.000Z",
+    "dateLabel": "2/28/2026, 5:10:47 PM - 2/28/2026, 7:36:40 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260228-171047-724u",
+    "summary": {
+      "borderlandsPct": 0.725,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 29,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Obsidian Sanctum",
+          "value": 11,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 44,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260225-172004-wh5w",
+    "title": "Papa Akram, R A D E E",
+    "commanders": [
+      "Papa Akram",
+      "R A D E E"
+    ],
+    "dateStart": "2026-02-26T01:20:04.000Z",
+    "dateEnd": "2026-02-26T03:27:23.000Z",
+    "dateLabel": "2/25/2026, 5:20:04 PM - 2/25/2026, 7:27:23 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260225-172004-wh5w",
+    "summary": {
+      "borderlandsPct": 0.5666666666666667,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Detailed Isle of Reflection",
+          "value": 13,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260207-170114-498l",
+    "title": "Emo Radee",
+    "commanders": [
+      "Emo Radee"
+    ],
+    "dateStart": "2026-02-08T01:01:14.000Z",
+    "dateEnd": "2026-02-08T03:58:22.000Z",
+    "dateLabel": "2/7/2026, 5:01:14 PM - 2/7/2026, 7:58:22 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260207-170114-498l",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 44,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 35,
+      "avgEnemySize": 44
+    }
+  },
+  {
+    "id": "20260203-190701-5tp0",
+    "title": "Emo Radee",
+    "commanders": [
+      "Emo Radee"
+    ],
+    "dateStart": "2026-02-04T03:07:01.000Z",
+    "dateEnd": "2026-02-04T03:26:55.000Z",
+    "dateLabel": "2/3/2026, 7:07:01 PM - 2/3/2026, 7:26:55 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260203-190701-5tp0",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 38
+    }
+  },
+  {
+    "id": "20260204-172013-q4y9",
+    "title": "Emo Radee",
+    "commanders": [
+      "Emo Radee"
+    ],
+    "dateStart": "2026-02-05T01:20:13.000Z",
+    "dateEnd": "2026-02-05T03:49:40.000Z",
+    "dateLabel": "2/4/2026, 5:20:13 PM - 2/4/2026, 7:49:40 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260204-172013-q4y9",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 18,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 17,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260301-225146-p5ob",
+    "title": "Unknown Commander",
+    "commanders": [],
+    "dateStart": "2026-03-02T06:51:46.410Z",
+    "dateEnd": "2026-03-02T06:51:46.410Z",
+    "dateLabel": "3/1/2026, 10:51:46 PM - 3/1/2026, 10:51:46 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260301-225146-p5ob",
+    "summary": {
+      "borderlandsPct": null,
+      "mapSlices": [],
+      "avgSquadSize": 0,
+      "avgEnemySize": 0
+    }
+  },
+  {
+    "id": "20260301-220004-63nu",
+    "title": "Ojos De La Tierra",
+    "commanders": [
+      "Ojos De La Tierra"
+    ],
+    "dateStart": "2026-03-02T06:00:04.000Z",
+    "dateEnd": "2026-03-02T06:30:08.000Z",
+    "dateLabel": "3/1/2026, 10:00:04 PM - 3/1/2026, 10:30:08 PM",
+    "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260301-220004-63nu",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 32
+    }
+  }
+]
