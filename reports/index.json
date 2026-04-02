@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260401-172039-8dyy",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-04-02T00:20:39.000Z",
+      "dateEnd": "2026-04-02T02:51:33.000Z",
+      "dateLabel": "4/1/2026, 5:20:39 PM - 4/1/2026, 7:51:33 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260401-172039-8dyy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260331-170853-znta",
       "title": "R A D E E",
       "commanders": [
