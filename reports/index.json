@@ -1,7 +1,31 @@
 {
-  "colorPalette": "emerald-mint",
+  "colorPalette": "violet-purple",
   "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260403-191033-v9i5",
+      "title": "Clappy Murdercakes, Swag Senpai",
+      "commanders": [
+        "Clappy Murdercakes",
+        "Swag Senpai"
+      ],
+      "dateStart": "2026-04-04T02:10:33.000Z",
+      "dateEnd": "2026-04-04T03:36:35.000Z",
+      "dateLabel": "4/3/2026, 7:10:33 PM - 4/3/2026, 8:36:35 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260403-191033-v9i5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 51
+      }
+    },
     {
       "id": "20260401-172039-8dyy",
       "title": "R A D E E",
