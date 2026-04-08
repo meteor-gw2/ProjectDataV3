@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260407-173708-rewd",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-04-08T00:37:08.000Z",
+      "dateEnd": "2026-04-08T02:05:53.000Z",
+      "dateLabel": "4/7/2026, 5:37:08 PM - 4/7/2026, 7:05:53 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260407-173708-rewd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260405-173146-6a1q",
       "title": "Papa Akram",
       "commanders": [
