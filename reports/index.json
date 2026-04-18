@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260417-194024-ta7y",
+      "title": "Papa Akram",
+      "commanders": [
+        "Papa Akram"
+      ],
+      "dateStart": "2026-04-18T02:40:24.000Z",
+      "dateEnd": "2026-04-18T03:44:33.000Z",
+      "dateLabel": "4/17/2026, 7:40:24 PM - 4/17/2026, 8:44:33 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260417-194024-ta7y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260416-181109-ut9y",
       "title": "Kabar Of Wapsie, Väsnia",
       "commanders": [
