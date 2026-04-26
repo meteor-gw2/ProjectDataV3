@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260425-170543-vflb",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-04-26T00:05:43.000Z",
+      "dateEnd": "2026-04-26T02:32:56.000Z",
+      "dateLabel": "4/25/2026, 5:05:43 PM - 4/25/2026, 7:32:56 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260425-170543-vflb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260424-191416-0eu4",
       "title": "Papa Akram, Vikidin",
       "commanders": [
