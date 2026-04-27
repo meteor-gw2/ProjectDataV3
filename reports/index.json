@@ -3,6 +3,35 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260426-172155-38bf",
+      "title": "R A D E E, Swag Senpai",
+      "commanders": [
+        "R A D E E",
+        "Swag Senpai"
+      ],
+      "dateStart": "2026-04-27T00:21:55.000Z",
+      "dateEnd": "2026-04-27T02:29:13.000Z",
+      "dateLabel": "4/26/2026, 5:21:55 PM - 4/26/2026, 7:29:13 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260426-172155-38bf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260425-170543-vflb",
       "title": "R A D E E",
       "commanders": [
