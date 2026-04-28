@@ -3,6 +3,35 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260427-171418-dhc6",
+      "title": "Salazierthaous, Valencious Et Moria",
+      "commanders": [
+        "Salazierthaous",
+        "Valencious Et Moria"
+      ],
+      "dateStart": "2026-04-28T00:14:18.000Z",
+      "dateEnd": "2026-04-28T01:00:36.000Z",
+      "dateLabel": "4/27/2026, 5:14:18 PM - 4/27/2026, 6:00:36 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260427-171418-dhc6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260426-172155-38bf",
       "title": "R A D E E, Swag Senpai",
       "commanders": [
