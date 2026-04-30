@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260429-171549-6p57",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-04-30T00:15:49.000Z",
+      "dateEnd": "2026-04-30T01:11:32.000Z",
+      "dateLabel": "4/29/2026, 5:15:49 PM - 4/29/2026, 6:11:32 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260429-171549-6p57",
+      "summary": {
+        "borderlandsPct": 0.88,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260428-172012-vwos",
       "title": "R A D E E, Valencious Et Moria",
       "commanders": [
