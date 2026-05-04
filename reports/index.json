@@ -3,6 +3,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260503-190231-ssds",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-05-04T02:02:31.000Z",
+      "dateEnd": "2026-05-04T02:52:58.000Z",
+      "dateLabel": "5/3/2026, 7:02:31 PM - 5/3/2026, 7:52:58 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260503-190231-ssds",
+      "summary": {
+        "borderlandsPct": 0.6785714285714286,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260502-164726-kxxj",
       "title": "Whïte Monster",
       "commanders": [
