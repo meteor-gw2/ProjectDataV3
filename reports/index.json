@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260508-190757-y69u",
+      "title": "Vikshoots",
+      "commanders": [
+        "Vikshoots"
+      ],
+      "dateStart": "2026-05-09T02:07:57.000Z",
+      "dateEnd": "2026-05-09T03:20:12.000Z",
+      "dateLabel": "5/8/2026, 7:07:57 PM - 5/8/2026, 8:20:12 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260508-190757-y69u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260507-170625-illj",
       "title": "R A D E E",
       "commanders": [
