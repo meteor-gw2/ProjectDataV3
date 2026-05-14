@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260513-171127-099a",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-05-14T00:11:27.000Z",
+      "dateEnd": "2026-05-14T01:33:31.000Z",
+      "dateLabel": "5/13/2026, 5:11:27 PM - 5/13/2026, 6:33:31 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260513-171127-099a",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 64
+      }
+    },
+    {
       "id": "20260511-174502-tph6",
       "title": "Whïte Monster",
       "commanders": [
