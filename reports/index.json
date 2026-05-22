@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260521-171117-0e6p",
+      "title": "Ineriouse Sly, R A D E E",
+      "commanders": [
+        "Ineriouse Sly",
+        "R A D E E"
+      ],
+      "dateStart": "2026-05-22T00:11:17.000Z",
+      "dateEnd": "2026-05-22T01:20:17.000Z",
+      "dateLabel": "5/21/2026, 5:11:17 PM - 5/21/2026, 6:20:17 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260521-171117-0e6p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260520-172316-tik1",
       "title": "R A D E E",
       "commanders": [
