@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260603-171657-c5u7",
+      "title": "R A D E E, Valencious Et Moria",
+      "commanders": [
+        "R A D E E",
+        "Valencious Et Moria"
+      ],
+      "dateStart": "2026-06-04T00:16:57.000Z",
+      "dateEnd": "2026-06-04T01:05:19.000Z",
+      "dateLabel": "6/3/2026, 5:16:57 PM - 6/3/2026, 6:05:19 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260603-171657-c5u7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 43,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260531-174335-pehm",
       "title": "Ineriouse Sly, R A D E E",
       "commanders": [
