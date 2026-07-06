@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-171035-dkwj",
+      "title": "Emo Radee, Ineriouse Sly",
+      "commanders": [
+        "Emo Radee",
+        "Ineriouse Sly"
+      ],
+      "dateStart": "2026-07-06T00:10:35.000Z",
+      "dateEnd": "2026-07-06T01:59:17.000Z",
+      "dateLabel": "7/5/2026, 5:10:35 PM - 7/5/2026, 6:59:17 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260705-171035-dkwj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260701-170122-d8sb",
       "title": "Emo Radee",
       "commanders": [
