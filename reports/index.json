@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-170731-59sv",
+      "title": "Papa Akram, Valencious Et Moria",
+      "commanders": [
+        "Papa Akram",
+        "Valencious Et Moria"
+      ],
+      "dateStart": "2026-07-09T00:07:31.000Z",
+      "dateEnd": "2026-07-09T01:01:46.000Z",
+      "dateLabel": "7/8/2026, 5:07:31 PM - 7/8/2026, 6:01:46 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260708-170731-59sv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260705-171035-gnkf",
       "title": "Emo Radee, Ineriouse Sly",
       "commanders": [
