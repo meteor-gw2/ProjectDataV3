@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-171515-h6xl",
+      "title": "Emo Radee, Ineriouse Sly",
+      "commanders": [
+        "Emo Radee",
+        "Ineriouse Sly"
+      ],
+      "dateStart": "2026-07-30T00:15:15.000Z",
+      "dateEnd": "2026-07-30T01:34:45.000Z",
+      "dateLabel": "7/29/2026, 5:15:15 PM - 7/29/2026, 6:34:45 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260729-171515-h6xl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260726-165511-fi3y",
       "title": "Salazierthaous",
       "commanders": [
