@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-201912-e5xh",
+      "title": "Emo Radee",
+      "commanders": [
+        "Emo Radee"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-04T00:19:12.000Z",
+      "dateEnd": "2026-08-04T01:38:45.000Z",
+      "dateLabel": "8/3/2026, 8:19:12 PM - 8/3/2026, 9:38:45 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260803-201912-e5xh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 31,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260802-202150-5jti",
       "title": "Emo Radee, Mr Sa Lads",
       "commanders": [
