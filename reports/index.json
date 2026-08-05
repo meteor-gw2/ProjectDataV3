@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-195457-ohu3",
+      "title": "Salazierthaous",
+      "commanders": [
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-04T23:54:57.000Z",
+      "dateEnd": "2026-08-05T01:21:17.000Z",
+      "dateLabel": "8/4/2026, 7:54:57 PM - 8/4/2026, 9:21:17 PM",
+      "url": "https://meteor-gw2.github.io/ProjectDataV3/?report=20260804-195457-ohu3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260803-201912-e5xh",
       "title": "Emo Radee",
       "commanders": [
